@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/csci135guide/static/css/main.e6c13ad2.css",
+    "main.js": "/csci135guide/static/js/main.e5b108a4.js",
+    "static/js/453.1794b6a4.chunk.js": "/csci135guide/static/js/453.1794b6a4.chunk.js",
+    "index.html": "/csci135guide/index.html",
+    "main.e6c13ad2.css.map": "/csci135guide/static/css/main.e6c13ad2.css.map",
+    "main.e5b108a4.js.map": "/csci135guide/static/js/main.e5b108a4.js.map",
+    "453.1794b6a4.chunk.js.map": "/csci135guide/static/js/453.1794b6a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5b108a4.js"
+  ]
+}
