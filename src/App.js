@@ -6,13 +6,13 @@ import Variables from './components/Variables';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/csci135guide">
       <div className="App">
         <Navbar/>
         <div className='content'>
           <Routes>
-            <Route path='/' Component={<Home/>}></Route>
-            <Route path="/variables" Component={<Variables/>}></Route>
+            <Route path='/' element={<Home/>}></Route>
+            <Route path="/variables" element={<Variables/>}></Route>
           </Routes>
           <br></br>
         </div>
