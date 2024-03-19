@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/csci135guide/static/css/main.2f052433.css",
-    "main.js": "/csci135guide/static/js/main.859fef74.js",
+    "main.js": "/csci135guide/static/js/main.1a8ce66c.js",
     "index.html": "/csci135guide/index.html",
     "main.2f052433.css.map": "/csci135guide/static/css/main.2f052433.css.map",
-    "main.859fef74.js.map": "/csci135guide/static/js/main.859fef74.js.map"
+    "main.1a8ce66c.js.map": "/csci135guide/static/js/main.1a8ce66c.js.map"
   },
   "entrypoints": [
     "static/css/main.2f052433.css",
-    "static/js/main.859fef74.js"
+    "static/js/main.1a8ce66c.js"
   ]
 }
