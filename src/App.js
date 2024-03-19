@@ -11,8 +11,8 @@ function App() {
         <Navbar/>
         <div className='content'>
           <Routes>
-            <Route path='/' Component={Home}></Route>
-            <Route path="/variables" Component={Variables}></Route>
+            <Route path='/' Component={<Home/>}></Route>
+            <Route path="/variables" Component={<Variables/>}></Route>
           </Routes>
           <br></br>
         </div>
