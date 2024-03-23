@@ -11,6 +11,15 @@ const Home = () => {
             <Link to="/input-and-conditionals" className='variable-button'>
             <a style={{ color: 'white', fontWeight: 'bold' }}>Input/Output and Conditionals</a>
             </Link>
+            <Link to="/string-and-array" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>Strings and Arrays</a>
+            </Link>
+            <Link to="/loops" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>For/While Loops</a>
+            </Link>
+            <Link to="/functions" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>Functions</a>
+            </Link>
         </div>
     );
 }
