@@ -7,6 +7,10 @@ import InputConditional from './components/InputConditional';
 import StringArray from './components/StringArray';
 import Loops from './components/Loops';
 import Functions from './components/Functions';
+import Pointers from './components/Pointers';
+import ClassesObjects from './components/ClassesObjects';
+import Inheritance from './components/Inheritance';
+import Recursion from './components/Recursion';
 
 function App() {
   return (
@@ -21,6 +25,10 @@ function App() {
             <Route path='/string-and-array' element={<StringArray/>}></Route>
             <Route path='/loops' element={<Loops/>}></Route>
             <Route path='/functions' element={<Functions/>}></Route>
+            <Route path='/pointers' element={<Pointers/>}></Route>
+            <Route path='/classes-objects' element={<ClassesObjects/>}></Route>
+            <Route path='/inheritance' element={<Inheritance/>}></Route>
+            <Route path='/recursion' element={<Recursion/>}></Route>
           </Routes>
           <br></br>
         </div>

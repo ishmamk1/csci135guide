@@ -20,6 +20,18 @@ const Home = () => {
             <Link to="/functions" className='variable-button'>
             <a style={{ color: 'white', fontWeight: 'bold' }}>Functions</a>
             </Link>
+            <Link to="/pointers" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>Pointers and Dynamic Memory Allocation</a>
+            </Link>
+            <Link to="/classes-objects" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>Classes and Objects</a>
+            </Link>
+            <Link to="/inheritance" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>Inheritance</a>
+            </Link>
+            <Link to="/recursion" className='variable-button'>
+            <a style={{ color: 'white', fontWeight: 'bold' }}>Recursion</a>
+            </Link>
         </div>
     );
 }
